@@ -17,6 +17,7 @@ I build LLM-powered systems — RAG pipelines, multi-agent workflows, and docume
 
 
 ## 🔭 Currently Working on 
+- Currently improve **Multi Agent System** with all the 4 agents interacting with each other
 - Production **RAG pipelines** with embedding optimization, reranking, and automated evaluation (RAGAS)
 - Improving LLM output quality through **structured prompting, tool use, and agent memory**
 

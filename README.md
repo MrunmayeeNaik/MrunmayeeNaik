@@ -12,7 +12,7 @@ I build LLM-powered systems — RAG pipelines, multi-agent workflows, and docume
 | Project | Description | Tech |
 |--------|-------------|------|
 | **[Document Q&A RAG Pipeline](https://github.com/MrunmayeeNaik/Document-Q-A-RAG-Pipeline)** | Production RAG system with Cohere reranking (top-20 → top-5), RAGAS evaluation, and Gemini 2.5 Flash streaming | Gemini, Pinecone, Cohere, RAGAS, Streamlit |
-| **[Financial Document Analyzer](https://github.com/MrunmayeeNaik/Document-Analyzer-CrewAI)** | Multi-agent system that reads financial PDFs and returns structured investment insights via REST API | CrewAI, FastAPI, OpenAI, Serper |
+| **[Onboard AI Agent](https://github.com/MrunmayeeNaik/On-Board-AI-Agent-Gemini)** | Production-grade multi-agent system with 3 chained Gemini 2.0 Flash agents automating the full employee onboarding journey — provisioning, 30-60-90 day learning path, and 24/7 HR Q&A | Gemini 2.0 Flash, Streamlit, Google AI Studio |
 ---
 
 
